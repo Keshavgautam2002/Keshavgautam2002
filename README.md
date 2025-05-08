@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/keshavg64166006" target="blank"><img src="https://img.shields.io/twitter/follow/keshavg64166006?logo=twitter&style=for-the-badge" alt="keshavg64166006" /></a> </p>
 
-- 🌱 Working with flutter and spring boot**
+- 🌱 Working with flutter and spring boot
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keshavgautam2002](https://github.com/Keshavgautam2002)
 
